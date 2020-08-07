@@ -1,2 +1,2 @@
 # Tindev
-A "Tinder for Developers" created from OmniStack Week, offered by Rocketseat.
+An application created from OmniStack Week, offered by Rocketseat.
